@@ -14,7 +14,7 @@ fullscreen = 0
 # Android specific
 android.api = 33
 android.minapi = 21
-android.ndk = 23b
+android.ndk = 28c
 android.ndk_api = 21
 android.sdk = 33
 android.build_tools = 33.0.0
